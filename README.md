@@ -1,6 +1,6 @@
 Name: Prathamesh Suresh Tandale 
-PRN: 202501040272
-Batch: CS3 - C32
+<br>PRN: 202501040272
+<br>Batch: CS3 - C32
 
 # 'Essentials of Data Science' Course Assignments and Certifications
 
