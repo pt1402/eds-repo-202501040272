@@ -1,4 +1,4 @@
-Name: Prathamesh Suresh Tandale
+Name: Prathamesh Suresh Tandale 
 <br>PRN: 202501040272
 <br>Batch: CS3 - C32
 
@@ -22,4 +22,3 @@ This repository contains my professional certifications and assignment submissio
 
 * [EDS Assignment 01 Video](./EDS_Assignment01_Video_Python_File_Handling.mp4)
 * [EDS Assignment 01 PPT](./EDS_Assignment01_PPT_Python_File_Handling.pdf)
-
