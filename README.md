@@ -13,14 +13,11 @@ This repository contains my professional certifications and assignment submissio
 * [Cisco NetAcad - Python Essentials 1 Badge](./PythonEssentials1_Badge.pdf)
 * [Cisco NetAcad - Python Essentials 2 Badge](./PythonEssentials2_Badge.pdf)
 
-## 🎓 EDS Lab Activity 01: IBM SkillsBuild - The Importance of Data Visualization Certification 
+## 🎓 EDS Lab Activities: IBM SkillsBuild Certifications
 
-* [IBM SkillsBuild - The Importance of Data Visualization Certificate](./IBM_SkillsBuild_The_Importance_of_Data_Visualization_Certificate.pdf)
-
-## 💼 Other IBM SkillsBuild Certifications
-
-* [IBM SkillsBuild - Career Management Essentials](./IBM_SkillsBuild_Career_Management_Essentials_Certificate.pdf)
-* [IBM SkillsBuild - Learn JavaScript (Codecademy)](./IBM_SkillsBuild_Learn_JavaScript_Codecademy_Certificate.pdf)
+* Activity 01 [IBM SkillsBuild - The Importance of Data Visualization Certificate](./IBM_SkillsBuild_The_Importance_of_Data_Visualization_Certificate.pdf)
+* Activity 02 [IBM SkillsBuild - Career Management Essentials](./IBM_SkillsBuild_Career_Management_Essentials_Certificate.pdf)
+* Activity 03 [IBM SkillsBuild - Learn JavaScript (Codecademy)](./IBM_SkillsBuild_Learn_JavaScript_Codecademy_Certificate.pdf)
 
 ## 📽️ EDS Theory Assignment 01: Video Making
 
