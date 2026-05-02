@@ -17,7 +17,7 @@ This repository contains my professional certifications and assignment submissio
 
 * [IBM SkillsBuild - The Importance of Data Visualization Certificate](./IBM_SkillsBuild_The_Importance_of_Data_Visualization_Certificate.pdf)
 
-### 💼 Other IBM SkillsBuild Certifications
+## 💼 Other IBM SkillsBuild Certifications
 
 * [IBM SkillsBuild - Career Management Essentials](./IBM_SkillsBuild_Career_Management_Essentials_Certificate.pdf)
 * [IBM SkillsBuild - Learn JavaScript (Codecademy)](./IBM_SkillsBuild_Learn_JavaScript_Codecademy_Certificate.pdf)
