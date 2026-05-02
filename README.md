@@ -6,18 +6,18 @@
 
 This repository contains my professional certifications and assignment submissions.
 
-## 🎓 EDS Lab Assignment 01: Cisco Python Certifications and Badges
+## 🎓 EDS Lab Assignment 01: Cisco NetAcad - Python Essentials Certifications and Badges
 
-* [Cisco Python Essentials 1 Certificate](./Cisco_Python_Essentials_1_Certificate_272.pdf)
-* [Cisco Python Essentials 2 Certificate](./Cisco_Python_Essentials_2_Certificate_272.pdf)
-* [Cisco Python Essentials 1 Badge](./PythonEssentials1_Badge.pdf)
-* [Cisco Python Essentials 2 Badge](./PythonEssentials2_Badge.pdf)
+* [Cisco NetAcad - Python Essentials 1 Certificate](./Cisco_Python_Essentials_1_Certificate_272.pdf)
+* [Cisco NetAcad - Python Essentials 2 Certificate](./Cisco_Python_Essentials_2_Certificate_272.pdf)
+* [Cisco NetAcad - Python Essentials 1 Badge](./PythonEssentials1_Badge.pdf)
+* [Cisco NetAcad - Python Essentials 2 Badge](./PythonEssentials2_Badge.pdf)
 
-## 🎓 EDS Lab Activity 01: The Importance of Data Visualization Certification 
+## 🎓 EDS Lab Activity 01: IBM SkillsBuild - The Importance of Data Visualization Certification 
 
 * [IBM SkillsBuild - The Importance of Data Visualization Certificate](./IBM_SkillsBuild_The_Importance_of_Data_Visualization_Certificate.pdf)
 
-## 💼 Other IBM SkillsBuild Certifications
+### 💼 Other IBM SkillsBuild Certifications
 
 * [IBM SkillsBuild - Career Management Essentials](./IBM_SkillsBuild_Career_Management_Essentials_Certificate.pdf)
 * [IBM SkillsBuild - Learn JavaScript (Codecademy)](./IBM_SkillsBuild_Learn_JavaScript_Codecademy_Certificate.pdf)
