@@ -16,8 +16,8 @@ This repository contains my professional certifications and assignment submissio
 ## 🎓 EDS Lab Activities: IBM SkillsBuild Certifications
 
 * Activity 01 [IBM SkillsBuild - The Importance of Data Visualization Certificate](./IBM_SkillsBuild_The_Importance_of_Data_Visualization_Certificate.pdf)
-* Activity 02 [IBM SkillsBuild - Career Management Essentials](./IBM_SkillsBuild_Career_Management_Essentials_Certificate.pdf)
-* Activity 03 [IBM SkillsBuild - Learn JavaScript (Codecademy)](./IBM_SkillsBuild_Learn_JavaScript_Codecademy_Certificate.pdf)
+* Activity 02 [IBM SkillsBuild - Learn JavaScript (Codecademy)](./IBM_SkillsBuild_Learn_JavaScript_Codecademy_Certificate.pdf)
+* Activity 03 [IBM SkillsBuild - Career Management Essentials](./IBM_SkillsBuild_Career_Management_Essentials_Certificate.pdf)
 
 ## 📽️ EDS Theory Assignment 01: Video Making
 
